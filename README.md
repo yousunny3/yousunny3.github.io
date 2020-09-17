@@ -1,8 +1,12 @@
-## yousunny3.github.io
+## yousunny.github.io
 
-You can use the [editor on GitHub](https://github.com/yousunny3/yousunny3.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi everyone! My name is Sunny You and I am currently enrolled at Lehigh University. I am planning on majoring in computer science because of how much my computer science teacher in High School has influenced me. I've had experience in HTML, CSS, Javascript and my most recent was Java. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page will contain my portfolio for the Data Journalism class.  
+
+
+
+
 
 ### Markdown
 
