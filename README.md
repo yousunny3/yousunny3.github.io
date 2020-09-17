@@ -14,7 +14,7 @@ This page will contain my portfolio for the Data Journalism class.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Facebook](www.facebook.com) and ![Image](https://www.howtogeek.com/wp-content/uploads/2014/06/howdoyoufindtheoriginalsourceofanimage00.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
