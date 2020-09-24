@@ -17,7 +17,7 @@ You can check out the website that I made [here](https://funplexer.github.io/Bub
 
 
 ## Infographic Test
-![Test](https://github.com/yousunny3/yousunny3.github.io/blob/master/hello%20world.png?raw=true){width = 50%}
+![Test](https://github.com/yousunny3/yousunny3.github.io/blob/master/hello%20world.png?raw=true)
 
 Obtained from Lehigh Office of Institutional Research & Strategic Analytics and you can see more of the data [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
