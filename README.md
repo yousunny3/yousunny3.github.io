@@ -16,7 +16,7 @@ I’ve taken AP Statistics in High School, so I have a bit of experience with da
 You can check out the website that I made [here](https://funplexer.github.io/Bubbleteam-Yum/bubbleteaintro.html), but remember that it's incomplete. 
 
 
-#Infographic Test
+### Infographic Test
 ![Test](https://github.com/yousunny3/yousunny3.github.io/blob/master/hello%20world.png?raw=true)
 
 This is the data that I got from lehigh office and is a test run
