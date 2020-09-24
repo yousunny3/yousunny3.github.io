@@ -19,7 +19,7 @@ You can check out the website that I made [here](https://funplexer.github.io/Bub
 ## Infographic Test
 ![Test](https://github.com/yousunny3/yousunny3.github.io/blob/master/hello%20world.png?raw=true)
 
-This is the data that I got from lehigh office and is a test run
+Obtained from Lehigh Office of Institutional Research & Strategic Analytics
 
 
 
