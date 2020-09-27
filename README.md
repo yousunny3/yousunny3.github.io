@@ -15,6 +15,11 @@ I’ve taken AP Statistics in High School, so I have a bit of experience with da
 
 You can check out the website that I made [here](https://funplexer.github.io/Bubbleteam-Yum/bubbleteaintro.html), but remember that it's incomplete. 
 
+##A Look at Types of Traffic Injuries
+
+<img src="https://github.com/yousunny3/yousunny3.github.io/blob/master/%25%20of%20Road%20User%20Deaths.png?raw=true" width="50%"/>
+
+[here](https://www.who.int/violence_injury_prevention/road_safety_status/2018/en/)
 
 ## Infographic Test
 
