@@ -19,9 +19,9 @@ You can check out the website that I made [here](https://funplexer.github.io/Bub
 
 Road accidents are a common occurrence here in the United States and people often assume that the drivers and passengers would have injuries. But why do we automatically assume these things as if it always happens?
 
-<img src="https://github.com/yousunny3/yousunny3.github.io/blob/master/%25%20of%20Road%20User%20Deaths.png?raw=true" width="50%"/>
+<img src="https://github.com/yousunny3/yousunny3.github.io/blob/master/%25%20of%20Road%20User%20Deaths.png?raw=true" width="75%"/>
 
-This infographic was created using data obtained from [World Health Organization](https://www.who.int/violence_injury_prevention/road_safety_status/2018/en/) and it shows road traffic deaths from the United States and Japan. 
+This infographic was created using data obtained from the [World Health Organization](https://www.who.int/violence_injury_prevention/road_safety_status/2018/en/) and it shows road traffic deaths from the United States and Japan. 
 
 
 ## Infographic Test
