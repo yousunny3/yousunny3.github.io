@@ -21,7 +21,8 @@ Road accidents are a common occurrence here in the United States and people ofte
 
 <img src="https://github.com/yousunny3/yousunny3.github.io/blob/master/%25%20of%20Road%20User%20Deaths.png?raw=true" width="50%"/>
 
-[here](https://www.who.int/violence_injury_prevention/road_safety_status/2018/en/)
+This infographic was created using data obtained from [World Health Organization](https://www.who.int/violence_injury_prevention/road_safety_status/2018/en/) and it shows road traffic deaths from various countries in the year 2018.
+
 
 ## Infographic Test
 
