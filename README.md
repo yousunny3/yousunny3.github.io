@@ -21,7 +21,10 @@ Road accidents are a common occurrence here in the United States and people ofte
 
 <img src="https://github.com/yousunny3/yousunny3.github.io/blob/master/%25%20of%20Road%20User%20Deaths.png?raw=true" width="65%"/>
 
-This infographic was created using data obtained from the [World Health Organization](https://www.who.int/violence_injury_prevention/road_safety_status/2018/en/) and it shows road traffic deaths from the United States and Japan. 
+This infographic was created using data obtained from the [World Health Organization](https://www.who.int/violence_injury_prevention/road_safety_status/2018/en/) and it shows road traffic deaths from the United States and Japan. By looking at the percentage of road deaths in the United States, we can see that 66.8% of deaths occur for persons in 4-wheel vehicles. The other types of road deaths are substantially lower in comparison. This means that people will more likely witness a road accident that results in the driver’s death than any other. As a result, people will tend to think of road injuries for drivers.
+
+The reason that the United States has such a high percentage of 4-wheel vehicle deaths is that the U.S. has a large number of 4-wheel vehicle owners. If we compare the percentage of 4-wheel vehicle deaths between the U.S. and Japan, Japan has a lower death percentage in that area. Because of this, we can assume that Japan has safer road guidelines or that they have a lower amount of 4-wheel vehicle owners. However, the death percentage for pedestrians and cyclists is much higher in Japan than in the U.S. This means that the population tends to walk and use a bike for means of transportation. As a result, we can conclude that the number of 4-wheel vehicle owners in Japan is much lower than in the U.S. because people in Japan tend to walk or bike.
+
 
 
 ## Infographic Test
