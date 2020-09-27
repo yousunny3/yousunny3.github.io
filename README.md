@@ -15,7 +15,9 @@ I’ve taken AP Statistics in High School, so I have a bit of experience with da
 
 You can check out the website that I made [here](https://funplexer.github.io/Bubbleteam-Yum/bubbleteaintro.html), but remember that it's incomplete. 
 
-##A Look at Types of Traffic Injuries
+## A Look at who Gets Caught Traffic Accidents
+
+Road accidents are a common occurrence here in the United States and people often assume that the drivers and passengers would have injuries. But why do we automatically assume these things as if it always happens?
 
 <img src="https://github.com/yousunny3/yousunny3.github.io/blob/master/%25%20of%20Road%20User%20Deaths.png?raw=true" width="50%"/>
 
