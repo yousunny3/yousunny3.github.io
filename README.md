@@ -9,9 +9,10 @@ This page will contain all of my projects that I have completed for the Data Jou
 
 I come from Philadelphia, which is about an hour away from Bethlehem. Since Philadelphia is a city, I’m not used to living around so many trees and so little cars. I’ve run a half marathon in high school but the hills on Lehigh Campus can still get very tiring for me. 
 
-I really enjoy working with computers and coding has been something that I found interesting. I’ve participated in a coding competition about making a website. Specfically a website about bubbletea for a resturant chain named Mr.Wish. I was also in the robotics team in High School. I coded the robot using Java and we participated in the [First Tech Challenge](https://www.firstinspires.org/robotics/ftc). We’ve won the city competition multiple times and have gone to state competitions. 
+Generally, I really enjoy working with computers and coding has been something that I found interesting. I’ve participated in a coding competition about making a website. Specfically a website about bubbletea for a resturant chain named Mr.Wish. I was also in the robotics team in High School. I coded the robot using Java and we participated in the [First Tech Challenge](https://www.firstinspires.org/robotics/ftc). We’ve won the city competition multiple times and have gone to state competitions. 
 
-I’ve taken AP Statistics in high school, so I have a bit of experience with data. However, writing isn’t my strong suit, so I’m looking forward to improving it. 
+
+During high school, I’ve taken AP Statistics, so I have a bit of experience with data. However, writing isn’t my strong suit, so I’m looking forward to improving it. 
 
 You can check out the website that I made [here](https://funplexer.github.io/Bubbleteam-Yum/bubbleteaintro.html), but the project was eventually dropped.
 
@@ -19,7 +20,7 @@ You can check out the website that I made [here](https://funplexer.github.io/Bub
 
 Road accidents are a common occurrence here in the United States and people often assume that the drivers and passengers would have injuries. But why do we automatically assume these things as if it always happens?
 
-<img src="https://github.com/yousunny3/yousunny3.github.io/blob/master/%25%20of%20Road%20User%20Deaths.png?raw=true" width="65%"/>
+<img src="https://github.com/yousunny3/yousunny3.github.io/blob/e3541c20f1531d5eecaa4ee8234c02a8d898cbf6/%25%20of%20Road%20User%20Deaths.png?raw=true" width="65%"/>
 
 This infographic was created using data obtained from the [World Health Organization](https://www.who.int/violence_injury_prevention/road_safety_status/2018/en/) and it shows road traffic deaths from the United States and Japan. By looking at the percentage of road deaths in the United States, we can see that 66.8% of deaths occur for persons in 4-wheel vehicles. The other types of road deaths are substantially lower in comparison. This means that people will more likely witness a road accident that results in the driver’s death than any other. As a result, people will tend to think of road injuries for drivers.
 
