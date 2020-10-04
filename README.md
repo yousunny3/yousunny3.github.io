@@ -26,7 +26,9 @@ This infographic was created using data obtained from the [World Health Organiza
 
 The reason that the United States has such a high percentage of 4-wheel vehicle deaths is that the U.S. has a large number of 4-wheel vehicle owners. If we compare the percentage of 4-wheel vehicle deaths between the U.S. and Japan, Japan has a lower death percentage in that area. Because of this, we can assume that Japan has safer road guidelines or that they have a lower amount of 4-wheel vehicle owners. However, the death percentage for pedestrians and cyclists is much higher in Japan than in the U.S. This means that the population tends to walk and use a bike for means of transportation. As a result, we can conclude that the number of 4-wheel vehicle owners in Japan is much lower than in the U.S. because people in Japan tend to walk or bike.
 
+## Apple's Evolution
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pid53nJwgKe0GszZd6-uXT-DnBW4RkhfkeqT3Am-7Fs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Infographic Test
 
