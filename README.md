@@ -43,3 +43,7 @@ Obtained from Lehigh Office of Institutional Research & Strategic Analytics and 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1-B2oIW8FV67f-jaurMOP5KFhIh7Jp5NjV4ImTNQH1S4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+## Bar Graph Test
+
+![Graph](https://github.com/yousunny3/yousunny3.github.io/blob/master/Lehigh_2019_Undergraduate_Enrollment_2019_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+
