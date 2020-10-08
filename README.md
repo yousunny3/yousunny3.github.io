@@ -31,6 +31,12 @@ The reason that the United States has such a high percentage of 4-wheel vehicle 
 Apple iPhones have come a long way and will continue to evolve. The timeline below shows the evolution of Apple iPhones and their history of prices.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pid53nJwgKe0GszZd6-uXT-DnBW4RkhfkeqT3Am-7Fs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+## Traffic Deaths Among Different Countries
+
+![Graph](https://github.com/yousunny3/yousunny3.github.io/blob/master/Reported_Number_of_Road_Traffic_Deaths,_2016______________________________Traffic_Deaths_chartbuilder.png?raw=true)
+
+
+
 ## Infographic Test
 
 <img src= "https://github.com/yousunny3/yousunny3.github.io/blob/master/hello%20world.png?raw=true" alt="test" width="520"/>
