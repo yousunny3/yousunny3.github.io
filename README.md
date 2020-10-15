@@ -42,7 +42,7 @@ From this graph, it’s obvious that China has the most traffic deaths out of th
 
 ![TimeGraph](https://github.com/yousunny3/yousunny3.github.io/blob/master/Vehicles_Manufactured_Over_11_Years_Passenger_Cars_Commercial_vehicle_Total_chartbuilder.png?raw=true)
 
-
+As mentioned previously, the number of car owners can results in higher numbers of traffic deaths. This chart shows the relationship between the number of passenger and commercial vehicles that were produced from the year 2000 to 2010. From the chart, I can draw the conclusion that the number of vehicles that were being manufactured is slowly decreasing. However, it had a sharp increase in the year 2010, which leds me to believe that the previous decrease in vehicle production cause a shortage of vehicles and thus, a high demand for such vehicles. 
 
 ## Infographic Test
 
