@@ -58,3 +58,5 @@ Obtained from Lehigh Office of Institutional Research & Strategic Analytics and 
 ## Line Graph Test
 ![Line](https://github.com/yousunny3/yousunny3.github.io/blob/master/Percentage_of_Lehigh_students_over_5_years_Arts_and_Science_Business_Engineering_chartbuilder%20(1).png?raw=true)
 
+## Scatterplot Test
+![Scatterplot](https://github.com/yousunny3/yousunny3.github.io/blob/master/GDP_per_Capital_vs_Life_Satisfaction_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
