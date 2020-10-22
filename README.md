@@ -65,3 +65,8 @@ Obtained from Lehigh Office of Institutional Research & Strategic Analytics and 
 
 ## Scatterplot Test
 ![Scatterplot](https://github.com/yousunny3/yousunny3.github.io/blob/master/GDP_per_Capital_vs_Life_Satisfaction_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
+
+## Map Test
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1QlCKsx89bX_Y6Hwm_5XB0ytdhROEISQT" width="640" height="480"></iframe>
+
+This map displays the ranking of top cyclist cities in 2019 according to Wire. You can visit [Their website](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/) for more detail.
