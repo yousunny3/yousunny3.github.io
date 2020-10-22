@@ -50,7 +50,6 @@ This map displays the location of League of Legends World Championships from Sea
 
 League of Legends World Championships is held all over the world each year. They became well known for their massive amounts of viewership during their broadcast of their World Championships. Their very first championship in Season 1 of 2011 was held in the Elmia studio in Jönköping, Sweden. The total amount of viewership at this time was at a peak of 1.69 million unique viewers and was remembered as “Phreak’s Basement” due to the small scale of space available. In the year 2018, the World Championship for Season 8 had a total of 99.6 million unique viewers, which is about 60 times more than the number of views in 2011. These World Championship series sparked a revolution within the eSports industry where it rivals the NBA. The eSports industry is now a billion dollar business where celebrities are investing heavily into eSports Teams. For example, Drake is the co-owner of the team 100 Thieves. 
 
-https://en.wikipedia.org/wiki/League_of_Legends_World_Championship#Season_2018
 
 
 ## Infographic Test
