@@ -46,9 +46,11 @@ As mentioned previously, the number of car owners can result in higher numbers o
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ZxP3yrfKZ_32Oz2tED0VvNYnEGrFFKKj" width="640" height="480"></iframe>
 
-https://www.statista.com/statistics/749024/league-of-legends-championships-prize-pool/
-https://storymaps.arcgis.com/stories/76c35c7570ed4cda8a858e44654f0594
+This map displays the location of League of Legends World Championships from Seasons 1 to 10. The data was obtained from [storymaps](https://storymaps.arcgis.com/stories/76c35c7570ed4cda8a858e44654f0594) and [Wikipedia](https://en.wikipedia.org/wiki/League_of_Legends_World_Championship#Season_2018). 
 
+League of Legends World Championships is held all over the world each year. They became well known for their massive amounts of viewership during their broadcast of their World Championships. Their very first championship in Season 1 of 2011 was held in the Elmia studio in Jönköping, Sweden. The total amount of viewership at this time was at a peak of 1.69 million unique viewers and was remembered as “Phreak’s Basement” due to the small scale of space available. In the year 2018, the World Championship for Season 8 had a total of 99.6 million unique viewers, which is about 60 times more than the number of views in 2011. These World Championship series sparked a revolution within the eSports industry where it rivals the NBA. The eSports industry is now a billion dollar business where celebrities are investing heavily into eSports Teams. For example, Drake is the co-owner of the team 100 Thieves. 
+
+https://en.wikipedia.org/wiki/League_of_Legends_World_Championship#Season_2018
 
 
 ## Infographic Test
