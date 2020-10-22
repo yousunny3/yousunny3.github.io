@@ -44,6 +44,13 @@ From this graph, it’s obvious that China has the most traffic deaths out of th
 
 As mentioned previously, the number of car owners can result in higher numbers of traffic deaths. This chart shows the relationship between the number of passenger and commercial vehicles that were produced from the year 2000 to 2010. From the chart, I can draw the conclusion that the number of vehicles that were being manufactured is slowly decreasing. However, it had a sharp increase in the year 2010, which leads me to believe that the previous decrease in vehicle production cause a shortage of vehicles and thus, a high demand for such vehicles. The decrease in production could have due to low sales or the economy was being affected negatively. However, by looking at the earlier years, specifically the 2000s, the number of vehicles produced was quite high compared to the others. From this, I conclude that there were enough vehicles around for people to buy. And since people won’t often buy more cars when they already own one, this would lead to a decrease in car sales.
 
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ZxP3yrfKZ_32Oz2tED0VvNYnEGrFFKKj" width="640" height="480"></iframe>
+
+https://www.statista.com/statistics/749024/league-of-legends-championships-prize-pool/
+https://storymaps.arcgis.com/stories/76c35c7570ed4cda8a858e44654f0594
+
+
+
 ## Infographic Test
 
 <img src= "https://github.com/yousunny3/yousunny3.github.io/blob/master/hello%20world.png?raw=true" alt="test" width="520"/>
