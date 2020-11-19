@@ -1,5 +1,7 @@
 ![Profile Picture](https://github.com/yousunny3/yousunny3.github.io/blob/master/self.jpg?raw=true)
 
+![comic](https://github.com/yousunny3/yousunny3.github.io/blob/master/comic.png?raw=true)
+
 Hi everyone! My name is Sunny You and I am currently enrolled at Lehigh University. I am planning on majoring in computer science because of how much my computer science teacher in high school has influenced me. I've had experience in HTML, CSS, Javascript and my most recent was Java. 
 
 This page will contain all of my projects that I have completed for the Data Journalism class.  
@@ -76,35 +78,3 @@ Having personally taken the AP Computer Science A exam back in my senior year of
 
 Additionally, the number of Black male and female that took the exam in both of these states were incredibly low. Not only that, the maximum number across the country was 170 students. On the other hand, the maximum number of Hispanic exam takers is 751 students. This shows that Computer Science isn’t very popular in the Black community. 
 
-
-
-
-## Infographic Test
-
-<img src= "https://github.com/yousunny3/yousunny3.github.io/blob/master/hello%20world.png?raw=true" alt="test" width="520"/>
-
-
-Obtained from Lehigh Office of Institutional Research & Strategic Analytics and you can see more of the data [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
-
-
-## Timeline Test
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1-B2oIW8FV67f-jaurMOP5KFhIh7Jp5NjV4ImTNQH1S4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
-## Bar Graph Test
-
-![Graph](https://github.com/yousunny3/yousunny3.github.io/blob/master/Lehigh_2019_Undergraduate_Enrollment_2019_Undergraduate_Enrollment_chartbuilder.png?raw=true)
-
-## Line Graph Test
-![Line](https://github.com/yousunny3/yousunny3.github.io/blob/master/Percentage_of_Lehigh_students_over_5_years_Arts_and_Science_Business_Engineering_chartbuilder%20(1).png?raw=true)
-
-## Scatterplot Test
-![Scatterplot](https://github.com/yousunny3/yousunny3.github.io/blob/master/GDP_per_Capital_vs_Life_Satisfaction_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
-
-## Map Test
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1QlCKsx89bX_Y6Hwm_5XB0ytdhROEISQT" width="640" height="480"></iframe>
-
-This map displays the ranking of top cyclist cities in 2019 according to Wire. You can visit [Their website](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/) for more detail.
-
-## Insitution and Degree Map
-<div class='tableauPlaceholder' id='viz1604606921921' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;23&#47;23GDNSC64&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;23GDNSC64' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;23&#47;23GDNSC64&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1604606921921'); var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
