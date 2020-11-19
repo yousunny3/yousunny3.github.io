@@ -1,5 +1,3 @@
-![Profile Picture](https://github.com/yousunny3/yousunny3.github.io/blob/master/self.jpg?raw=true)
-
 ![comic](https://github.com/yousunny3/yousunny3.github.io/blob/master/comic.png?raw=true)
 
 Hi everyone! My name is Sunny You and I am currently enrolled at Lehigh University. I am planning on majoring in computer science because of how much my computer science teacher in high school has influenced me. I've had experience in HTML, CSS, Javascript and my most recent was Java. 
@@ -8,6 +6,7 @@ This page will contain all of my projects that I have completed for the Data Jou
 
 
 # About me
+![Profile Picture](https://github.com/yousunny3/yousunny3.github.io/blob/master/self.jpg?raw=true)
 
 I come from Philadelphia, which is about an hour away from Bethlehem. Since Philadelphia is a city, I’m not used to living around so many trees and so little cars. I’ve run a half marathon in high school but the hills on Lehigh Campus can still get very tiring for me. 
 
