@@ -6,9 +6,10 @@ This page will contain all of my projects that I have completed for the Data Jou
 
 
 # About me
-![Profile Picture](https://github.com/yousunny3/yousunny3.github.io/blob/master/self.jpg?raw=true)
 
 I come from Philadelphia, which is about an hour away from Bethlehem. Since Philadelphia is a city, I’m not used to living around so many trees and so little cars. I’ve run a half marathon in high school but the hills on Lehigh Campus can still get very tiring for me. 
+
+<img src="https://github.com/yousunny3/yousunny3.github.io/blob/master/self.jpg?raw=true" align="left" /><p></p>
 
 Most of the time, I really enjoy working with computers and coding has been something that I found interesting. I’ve participated in a coding competition about making a website. Specfically a website about bubbletea for a resturant chain named Mr.Wish. I was also in the robotics team in High School. I coded the robot using Java and we participated in the [First Tech Challenge](https://www.firstinspires.org/robotics/ftc). We’ve won the city competition multiple times and have gone to state competitions. 
 
