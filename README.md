@@ -18,6 +18,11 @@ During high school, I’ve taken AP Statistics, so I have a bit of experience wi
 
 You can check out the website that I made [here](https://funplexer.github.io/Bubbleteam-Yum/bubbleteaintro.html), but the project was eventually dropped.
 
+
+
+
+
+
 ## A Look at who Gets Caught in Traffic Accidents
 
 Road accidents are a common occurrence here in the United States and people often assume that the drivers and passengers would have injuries. But why do we automatically assume these things as if it always happens?
