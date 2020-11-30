@@ -28,12 +28,6 @@ This infographic was created using data obtained from the [World Health Organiza
 
 The reason that the United States has such a high percentage of 4-wheel vehicle deaths is that the U.S. has a large number of 4-wheel vehicle owners. If we compare the percentage of 4-wheel vehicle deaths between the U.S. and Japan, Japan has a lower death percentage in that area. Because of this, we can assume that Japan has safer road guidelines or that they have a lower amount of 4-wheel vehicle owners. However, the death percentage for pedestrians and cyclists is much higher in Japan than in the U.S. This means that the population tends to walk and use a bike for means of transportation. As a result, we can conclude that the number of 4-wheel vehicle owners in Japan is much lower than in the U.S. because people in Japan tend to walk or bike.
 
-## Apple's Evolution
-
-Apple iPhones have come a long way and will continue to evolve. The timeline below shows the evolution of Apple iPhones and their history of prices.
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pid53nJwgKe0GszZd6-uXT-DnBW4RkhfkeqT3Am-7Fs&font=Default&lang=en&initial_zoom=5&height=650' width='150%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
 ## Traffic Deaths Among Different Countries
 
 ![Graph](https://github.com/yousunny3/yousunny3.github.io/blob/master/Reported_Number_of_Road_Traffic_Deaths,_2016______________________________Traffic_Deaths_chartbuilder.png?raw=true)
@@ -47,9 +41,14 @@ From this graph, it’s obvious that China has the most traffic deaths out of th
 
 As mentioned previously, the number of car owners can result in higher numbers of traffic deaths. This chart shows the relationship between the number of passenger and commercial vehicles that were produced from the year 2000 to 2010. From the chart, I can draw the conclusion that the number of vehicles that were being manufactured is slowly decreasing. However, it had a sharp increase in the year 2010, which leads me to believe that the previous decrease in vehicle production cause a shortage of vehicles and thus, a high demand for such vehicles. The decrease in production could have due to low sales or the economy was being affected negatively. However, by looking at the earlier years, specifically the 2000s, the number of vehicles produced was quite high compared to the others. From this, I conclude that there were enough vehicles around for people to buy. And since people won’t often buy more cars when they already own one, this would lead to a decrease in car sales. More information about the data could be found [here](https://www.bts.gov/content/annual-us-motor-vehicle-production-and-factory-wholesale-sales).
 
+## Apple's Evolution
+
+Apple iPhones have come a long way and will continue to evolve. The timeline below shows the evolution of Apple iPhones and their history of prices.
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pid53nJwgKe0GszZd6-uXT-DnBW4RkhfkeqT3Am-7Fs&font=Default&lang=en&initial_zoom=5&height=650' width='150%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 ## Lehigh Student Party Location Preferences
 
-  
 <div class="tableauPlaceholder" id="viz1604006869921" style="position: relative; width: 150%; height: 776.25px; overflow: hidden; display: block;">
   <noscript><a href="#"><img alt=" " src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartyLocationPreferences_16040060132780&#47;Dashboard1&#47;1_rss.png" style="border: none" /></a></noscript><script src="https://public.tableau.com/javascripts/api/viz_v1.js"></script><iframe frameborder="0" marginheight="0" marginwidth="0" title="Data Visualization" allowtransparency="true" allowfullscreen="true" class="tableauViz" style="display: block; width: 100%; height: 776.25px; margin: 0px; padding: 0px; border: none;" src="https://public.tableau.com/views/PartyLocationPreferences_16040060132780/Dashboard1?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:embed_code_version=3&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;:language=en&amp;publish=yes&amp;:loadOrderID=0"></iframe></div>
   
